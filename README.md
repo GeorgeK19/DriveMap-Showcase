@@ -7,7 +7,10 @@ A modern mobile app designed to help drivers manage their cars, stay organized, 
 DriveMap is an all-in-one application for car owners.  
 It helps you keep track of your vehicle, manage important reminders, and quickly access useful information while on the road.
 
-The goal of the app is to make car ownership **simpler, smarter, and more organized**.
+The goal of the app is to make car ownership simpler, smarter, and more organized
+
+## 📱 Socials
+- Tiktok: https://www.tiktok.com/@drivemapapp?_r=1&_t=ZN-94WIki1VJNW
 
 ## ✨ Features
 
