@@ -53,6 +53,8 @@ The app is currently in development
 
 New features and improvements are continuously being added based on user feedback and testing
 
+This project is fully usable and production-ready
+
 ## 📸 Screenshots
 ![Map Screen](screenshots/map.jpg)
 ![My Car](screenshots/mycar.jpg)
