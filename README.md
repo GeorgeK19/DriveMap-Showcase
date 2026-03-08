@@ -51,9 +51,12 @@ The app is currently in development
 New features and improvements are continuously being added based on user feedback and testing
 
 ## 📸 Screenshots
-![Map Screen](screenshots/map.png)
-![My Car](screenshots/mycar.png)
-![Garage](screenshots/service.png)
+![Map Screen](screenshots/map.jpg)
+![My Car](screenshots/mycar.jpg)
+![Garage](screenshots/service.jpg)
+![Calendar](screenshots/calendar.jpg)
+![Login](screenshots/login.jpg)
+![Emergency](screenshots/emergency.jpg)
 
 ## 💡Feedback
 
