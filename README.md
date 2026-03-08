@@ -53,7 +53,7 @@ New features and improvements are continuously being added based on user feedbac
 ## 📸 Screenshots
 ![Map Screen](screenshots/map.jpg)
 ![My Car](screenshots/mycar.jpg)
-![Garage](screenshots/service.jpg)
+![Garage](screenshots/garage.jpg)
 ![Calendar](screenshots/calendar.jpg)
 ![Login](screenshots/login.jpg)
 ![Emergency](screenshots/emergency.jpg)
